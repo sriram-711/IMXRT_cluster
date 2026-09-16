@@ -1,0 +1,55 @@
+{
+  "version": 7,
+  "cmakeMinimumRequired": {
+    "major": 3
+  },
+  "configurePresets": [
+    {
+      "name": "flexspi_nor_sdram_debug",
+      "displayName": "flexspi_nor_sdram_debug",
+      "generator": "Ninja",
+      "binaryDir": "${sourceDir}/${presetName}",
+      "toolchainFile": "$env{SdkRootDirPath}/tools/cmake_toolchain_files/armgcc.cmake",
+      "inherits": "flexspi_nor_sdram_debug-env",
+      "cacheVariables": {
+        "POSTPROCESS_UTILITY": "$env{POSTPROCESS_UTILITY}",
+        "LIBRARY_TYPE": "NEWLIB",
+        "LANGUAGE": "C",
+        "DEBUG_CONSOLE": "UART",
+        "CMAKE_BUILD_TYPE": "flexspi_nor_sdram_debug",
+        "SdkRootDirPath": "$env{SdkRootDirPath}"
+      }
+    },
+    {
+      "name": "flexspi_nor_sdram_release",
+      "displayName": "flexspi_nor_sdram_release",
+      "generator": "Ninja",
+      "binaryDir": "${sourceDir}/${presetName}",
+      "toolchainFile": "$env{SdkRootDirPath}/tools/cmake_toolchain_files/armgcc.cmake",
+      "inherits": "flexspi_nor_sdram_release-env",
+      "cacheVariables": {
+        "POSTPROCESS_UTILITY": "$env{POSTPROCESS_UTILITY}",
+        "LIBRARY_TYPE": "NEWLIB",
+        "LANGUAGE": "C",
+        "DEBUG_CONSOLE": "UART",
+        "CMAKE_BUILD_TYPE": "flexspi_nor_sdram_release",
+        "SdkRootDirPath": "$env{SdkRootDirPath}"
+      }
+    }
+  ],
+  "buildPresets": [
+    {
+      "name": "flexspi_nor_sdram_debug",
+      "displayName": "flexspi_nor_sdram_debug",
+      "configurePreset": "flexspi_nor_sdram_debug"
+    },
+    {
+      "name": "flexspi_nor_sdram_release",
+      "displayName": "flexspi_nor_sdram_release",
+      "configurePreset": "flexspi_nor_sdram_release"
+    }
+  ],
+  "include": [
+    "mcux_include.json"
+  ]
+}

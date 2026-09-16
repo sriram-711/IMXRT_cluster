@@ -1,0 +1,2 @@
+*.bak filter=lfs diff=lfs merge=lfs -text
+generated/images/*.c filter=lfs diff=lfs merge=lfs -text

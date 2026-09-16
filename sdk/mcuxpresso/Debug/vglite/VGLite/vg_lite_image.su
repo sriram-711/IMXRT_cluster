@@ -1,0 +1,3 @@
+C:/Guna/AUG4/sdk/Core/vglite/VGLite/vg_lite_image.c:34:13:_memcpy	32	static
+C:/Guna/AUG4/sdk/Core/vglite/VGLite/vg_lite_image.c:42:17:get_buffer_planes	32	static
+C:/Guna/AUG4/sdk/Core/vglite/VGLite/vg_lite_image.c:130:17:vg_lite_buffer_upload	72	static

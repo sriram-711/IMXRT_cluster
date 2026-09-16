@@ -1,0 +1,13 @@
+c:\guna\aug4\sdk\core\lvgl\lvgl\src\misc\lv_color.h:600:26:lv_color_hex	24	static
+C:\Guna\AUG4\sdk\Core\lvgl\lvgl/src/lv_api_map.h:55:20:lv_obj_move_foreground	24	static
+C:\Guna\AUG4\sdk\Core\drivers/fsl_lpuart.h:804:23:LPUART_ReadByte	32	static
+C:\Guna\AUG4\sdk\Core\drivers/fsl_gpio.h:176:24:GPIO_PinRead	16	static
+C:/Guna/AUG4/custom/custom.c:55:13:adas_hide_all_obstacles	16	static
+C:/Guna/AUG4/custom/custom.c:66:13:update_gear_ui	16	static
+C:/Guna/AUG4/custom/custom.c:98:13:update_speed_ui	48	static
+C:/Guna/AUG4/custom/custom.c:141:13:handle_jetson_detection	16	static
+C:/Guna/AUG4/custom/custom.c:185:13:process_jetson_frame	32	static
+C:/Guna/AUG4/custom/custom.c:195:13:uart_jetson_byte_received	32	static
+C:/Guna/AUG4/custom/custom.c:244:13:uart_poll_timer_cb	32	static
+C:/Guna/AUG4/custom/custom.c:266:13:speed_sim_timer_cb	24	static
+C:/Guna/AUG4/custom/custom.c:296:6:custom_init	24	static

@@ -1,0 +1,5 @@
+C:/Guna/AUG4/sdk/Core/vglite/VGLite/vg_lite_matrix.c:35:6:vg_lite_identity	16	static
+C:/Guna/AUG4/sdk/Core/vglite/VGLite/vg_lite_matrix.c:49:13:multiply	64	static
+C:/Guna/AUG4/sdk/Core/vglite/VGLite/vg_lite_matrix.c:69:6:vg_lite_translate	64	static
+C:/Guna/AUG4/sdk/Core/vglite/VGLite/vg_lite_matrix.c:81:6:vg_lite_scale	64	static
+C:/Guna/AUG4/sdk/Core/vglite/VGLite/vg_lite_matrix.c:93:6:vg_lite_rotate	64	static

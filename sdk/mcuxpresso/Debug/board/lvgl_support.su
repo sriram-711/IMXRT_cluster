@@ -1,0 +1,10 @@
+C:/Guna/AUG4/sdk/Core/board/lvgl_support.c:224:6:lv_port_pre_init	4	static
+C:/Guna/AUG4/sdk/Core/board/lvgl_support.c:235:6:lv_port_disp_init	40	static
+C:/Guna/AUG4/sdk/Core/board/lvgl_support.c:356:13:DEMO_BufferSwitchOffCallback	24	static
+C:/Guna/AUG4/sdk/Core/board/lvgl_support.c:379:13:DEMO_WaitBufferSwitchOff	8	static
+C:/Guna/AUG4/sdk/Core/board/lvgl_support.c:395:13:DEMO_FlushDisplay	72	static
+C:/Guna/AUG4/sdk/Core/board/lvgl_support.c:485:6:lv_port_indev_init	8	static
+C:/Guna/AUG4/sdk/Core/board/lvgl_support.c:503:13:BOARD_PullMIPIPanelTouchResetPin	16	static
+C:/Guna/AUG4/sdk/Core/board/lvgl_support.c:515:13:BOARD_ConfigMIPIPanelTouchIntPin	16	static
+C:/Guna/AUG4/sdk/Core/board/lvgl_support.c:550:13:DEMO_InitTouch	16	static
+C:/Guna/AUG4/sdk/Core/board/lvgl_support.c:572:13:DEMO_ReadTouch	16	static

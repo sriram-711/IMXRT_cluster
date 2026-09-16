@@ -1,0 +1,1 @@
+GEN_CSRCS += lv_font_montserratMedium_28.c lv_font_montserratMedium_16.c lv_font_FontAwesome5_35.c lv_font_SourceHanSerifSC_Regular_32.c lv_font_montserratMedium_26.c lv_font_Antonio_Regular_75.c lv_font_SourceHanSerifSC_Regular_36.c lv_font_FontAwesome5_47.c

@@ -1,0 +1,4 @@
+C:/Guna/AUG4/sdk/Core/video/fsl_rpi.c:39:10:RPI_Init	40	static
+C:/Guna/AUG4/sdk/Core/video/fsl_rpi.c:97:10:RPI_Deinit	24	static
+C:/Guna/AUG4/sdk/Core/video/fsl_rpi.c:107:10:RPI_Start	24	static
+C:/Guna/AUG4/sdk/Core/video/fsl_rpi.c:115:10:RPI_Stop	24	static

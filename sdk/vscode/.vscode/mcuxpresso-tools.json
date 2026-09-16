@@ -1,0 +1,20 @@
+{
+  "version": "24.9",
+  "toolchainPath": "C:/NXP/MCUXpressoIDE_11.10.0_3133_prc2/ide/tools",
+  "linkedProjects": [],
+  "trustZoneType": "none",
+  "multicoreType": "none",
+  "debug": {
+    "linkserver": {},
+    "pemicro": {},
+    "segger": {}
+  },
+  "projectType": "sdk-freestanding",
+  "sdk": {
+    "boardId": "evkbmimxrt1170",
+    "deviceId": "MIMXRT1176xxxxx",
+    "coreId": "cm7_MIMXRT1176xxxxx",
+    "version": "",
+    "path": "c:\\vscode_project\\SDK_2_16_000_MIMXRT1170-EVKB"
+  }
+}

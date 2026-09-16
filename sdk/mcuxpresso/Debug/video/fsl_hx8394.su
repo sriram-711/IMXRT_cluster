@@ -1,0 +1,4 @@
+C:/Guna/AUG4/sdk/Core/video/fsl_hx8394.c:99:10:HX8394_Init	48	static
+C:/Guna/AUG4/sdk/Core/video/fsl_hx8394.c:160:10:HX8394_Deinit	24	static
+C:/Guna/AUG4/sdk/Core/video/fsl_hx8394.c:173:10:HX8394_Start	24	static
+C:/Guna/AUG4/sdk/Core/video/fsl_hx8394.c:181:10:HX8394_Stop	24	static

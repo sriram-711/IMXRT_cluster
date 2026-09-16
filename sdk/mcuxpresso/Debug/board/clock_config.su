@@ -1,0 +1,13 @@
+C:\Guna\AUG4\sdk\Core\drivers/fsl_clock.h:1987:24:CLOCK_GetRootClockMux	16	static
+C:\Guna\AUG4\sdk\Core\drivers/fsl_clock.h:2028:24:CLOCK_GetRootClockDiv	16	static
+C:\Guna\AUG4\sdk\Core\drivers/fsl_clock.h:2073:20:CLOCK_SetRootClock	16	static
+C:\Guna\AUG4\sdk\Core\drivers/fsl_clock.h:2156:24:CLOCK_GetRootClockFreq	32	static
+C:\Guna\AUG4\sdk\Core\drivers/fsl_clock.h:2295:20:CLOCK_OSC_EnableOsc48M	16	static
+C:\Guna\AUG4\sdk\Core\drivers/fsl_clock.h:2327:20:CLOCK_OSC_EnableOsc48MDiv2	16	static
+C:\Guna\AUG4\sdk\Core\drivers/fsl_clock.h:2409:20:CLOCK_OSC_GateOscRc400M	16	static
+C:\Guna\AUG4\sdk\Core\drivers/fsl_iomuxc.h:1685:20:IOMUXC_SetSaiMClkClockSource	24	static
+C:\Guna\AUG4\sdk\Core\drivers/fsl_iomuxc.h:1755:20:IOMUXC_MQSConfig	24	static
+C:/Guna/AUG4/sdk/Core/board/clock_config.c:49:6:BOARD_InitBootClocks	8	static
+C:/Guna/AUG4/sdk/Core/board/clock_config.c:58:6:UpdateSemcClock	4	static
+C:/Guna/AUG4/sdk/Core/board/clock_config.c:284:6:BOARD_BootClockRUN	16	static
+C:/Guna/AUG4/sdk/Core/board/clock_config.c:1099:6:BOARD_BootClockRUN_800M	16	static

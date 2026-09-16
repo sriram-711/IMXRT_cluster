@@ -1,0 +1,6 @@
+C:/Guna/AUG4/sdk/Core/vglite/VGLite/vg_lite_path.c:36:17:vg_lite_upload_path	112	static
+C:/Guna/AUG4/sdk/Core/vglite/VGLite/vg_lite_path.c:82:16:get_data_count	16	static
+C:/Guna/AUG4/sdk/Core/vglite/VGLite/vg_lite_path.c:113:13:compute_pathbounds	32	static
+C:/Guna/AUG4/sdk/Core/vglite/VGLite/vg_lite_path.c:136:16:get_data_size	24	static
+C:/Guna/AUG4/sdk/Core/vglite/VGLite/vg_lite_path.c:161:9:vg_lite_path_calc_length	40	static
+C:/Guna/AUG4/sdk/Core/vglite/VGLite/vg_lite_path.c:183:17:vg_lite_path_append	128	static

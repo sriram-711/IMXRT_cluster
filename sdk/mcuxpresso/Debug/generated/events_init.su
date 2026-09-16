@@ -1,0 +1,7 @@
+C:/Guna/AUG4/generated/events_init.c:22:13:screen_1_btn_1_event_handler	48	static
+C:/Guna/AUG4/generated/events_init.c:36:13:screen_1_btn_2_event_handler	48	static
+C:/Guna/AUG4/generated/events_init.c:50:6:events_init_screen_1	16	static
+C:/Guna/AUG4/generated/events_init.c:60:13:screen_btn_1_event_handler	48	static
+C:/Guna/AUG4/generated/events_init.c:74:13:screen_btn_2_event_handler	48	static
+C:/Guna/AUG4/generated/events_init.c:88:6:events_init_screen	16	static
+C:/Guna/AUG4/generated/events_init.c:94:6:events_init	16	static

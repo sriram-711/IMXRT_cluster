@@ -1,0 +1,6 @@
+/Debug/
+/Release/
+/Triox_build/
+/imxrt_eval_build/
+.settings/language.settings.xml
+*.launch
